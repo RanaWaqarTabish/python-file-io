@@ -16,4 +16,4 @@
 # c = file_object.read()
 # print(c)
 # file_object.close()
-from script import find_heritability
+
